@@ -1,0 +1,2 @@
+3/16/2023, 7:20:26 PM	c0932051-2e02-42c0-88d8-03d9ed5cf6d8	Error: Not allowed by CORS
+3/16/2023, 9:14:11 PM	15755430-1e36-4864-92f5-7121c2b2e6c6	Error: ENOENT: no such file or directory, stat '/home/abdullah/mine/node-js/express.js-router/routes/views/index.html'
